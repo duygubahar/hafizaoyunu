@@ -1,4 +1,4 @@
-# hafizaoyunu
+# TodoList
 ***Zorluk Aşamalı Hafıza Kart Oyunu***<br/>
 Oyunumuz bir giriş ekranıyla gelmektedir. Bu ekranda oyun ile ilgili iki temel zorluk seviyesi; kolay ve zor olmak üzere bulunur.<br/>
 Oyuncu kolayı seçerse 4x4, zoru seçerse 6x6 boyutunda kartlarımız ekrana gelmektedir.<br/>
